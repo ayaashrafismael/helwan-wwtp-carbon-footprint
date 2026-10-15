@@ -1,0 +1,11 @@
+life_cycle_stage,item,unit,alternative_A_quantity,alternative_B_quantity,emission_factor_kgCO2e_per_unit,factor_source,notes
+construction,concrete,m3,,,,,fill from public design data or illustrative values
+construction,reinforcing steel,t,,,,,
+operation,electricity (20 yr),MWh,,,,,grid intensity varies by scenario
+operation,ferric chloride / coagulant,t,,,,,
+operation,polymer,t,,,,,
+process,N2O from nitrogen removal,kg N2O,,,,IPCC 2019 Refinement Vol.5 Ch.6,
+process,CH4 from sludge handling,kg CH4,,,,IPCC 2019 Refinement Vol.5 Ch.6,
+sludge,sludge transport,t-km,,,,,
+sludge,sludge disposal / reuse,t dry solids,,,,,
+credits,biogas electricity generated,MWh,,,,,negative value = avoided emissions
